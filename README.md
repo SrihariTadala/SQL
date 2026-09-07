@@ -1,6 +1,6 @@
 # UniversityDB – SQL Training Project
 
-SQL Server practice queries built around a university database with **Students**, **Departments**, **Instructors**, **Courses**, **Enrollments** and **SemesterFees** tables.
+SQL Server  queries built around a university database with **Students**, **Departments**, **Instructors**, **Courses**, **Enrollments** and **SemesterFees** tables.
 
 ## Database Setup
 
