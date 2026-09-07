@@ -1,0 +1,13 @@
+InstructorID,FirstName,LastName,Email,DepartmentID,HireDate,Salary
+1,Rebecca,Alvarez,r.alvarez@university.edu,1,2012-08-15,92000.00
+2,Daniel,Okafor,d.okafor@university.edu,1,2016-01-10,84500.00
+3,Priya,Raman,p.raman@university.edu,2,2009-09-01,88000.00
+4,Thomas,Fletcher,t.fletcher@university.edu,2,2018-08-20,76000.00
+5,Elena,Duarte,e.duarte@university.edu,3,2011-03-14,90500.00
+6,Marcus,Webb,m.webb@university.edu,3,2019-08-19,72000.00
+7,Sofia,Bianchi,s.bianchi@university.edu,4,2014-07-07,95000.00
+8,Henry,Lockwood,h.lockwood@university.edu,4,2020-01-13,70000.00
+9,Grace,Mbeki,g.mbeki@university.edu,5,2008-08-25,81000.00
+10,Owen,Sinclair,o.sinclair@university.edu,5,2017-08-21,69000.00
+11,Aisha,Karim,a.karim@university.edu,6,2013-09-02,87500.00
+12,Victor,Nakamura,v.nakamura@university.edu,6,2021-08-16,68000.00

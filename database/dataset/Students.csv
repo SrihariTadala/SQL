@@ -1,0 +1,41 @@
+StudentID,FirstName,LastName,Email,DateOfBirth,EnrollmentDate,DepartmentID,City,State
+1,Aaron,Mitchell,aaron.mitchell@student.edu,2004-03-12,2022-08-22,1,Austin,TX
+2,Bianca,Torres,bianca.torres@student.edu,2003-11-05,2022-08-22,1,Dallas,TX
+3,Caleb,Nguyen,caleb.nguyen@student.edu,2004-07-19,2022-08-22,1,San Jose,CA
+4,Dana,Whitfield,dana.whitfield@student.edu,2003-05-30,2022-08-22,1,Phoenix,AZ
+5,Ethan,Brooks,ethan.brooks@student.edu,2004-01-24,2023-01-09,1,Denver,CO
+6,Farah,Siddiqui,farah.siddiqui@student.edu,2004-09-08,2023-01-09,1,Chicago,IL
+7,Gavin,Porter,gavin.porter@student.edu,2003-12-15,2022-08-22,1,Seattle,WA
+8,Hana,Yamamoto,hana.yamamoto@student.edu,2004-04-02,2023-01-09,1,Portland,OR
+9,Isaac,Levine,isaac.levine@student.edu,2003-08-17,2022-08-22,2,Boston,MA
+10,Julia,Ferreira,julia.ferreira@student.edu,2004-02-28,2022-08-22,2,Miami,FL
+11,Kevin,Osei,kevin.osei@student.edu,2003-10-11,2022-08-22,2,Atlanta,GA
+12,Laila,Haddad,laila.haddad@student.edu,2004-06-23,2023-01-09,2,Detroit,MI
+13,Miguel,Santos,miguel.santos@student.edu,2003-04-09,2022-08-22,2,San Antonio,TX
+14,Nina,Kowalski,nina.kowalski@student.edu,2004-05-14,2022-08-22,2,Cleveland,OH
+15,Oscar,Delgado,oscar.delgado@student.edu,2004-08-30,2023-01-09,2,Albuquerque,NM
+16,Priya,Chandra,priya.chandra@student.edu,2003-09-21,2022-08-22,3,Raleigh,NC
+17,Quentin,Baptiste,quentin.baptiste@student.edu,2004-03-03,2022-08-22,3,New Orleans,LA
+18,Rachel,Kim,rachel.kim@student.edu,2003-12-07,2022-08-22,3,Baltimore,MD
+19,Samuel,Adeyemi,samuel.adeyemi@student.edu,2004-10-16,2023-01-09,3,Houston,TX
+20,Tanya,Petrova,tanya.petrova@student.edu,2003-06-25,2022-08-22,3,Pittsburgh,PA
+21,Umar,Farooq,umar.farooq@student.edu,2004-01-31,2023-01-09,3,Columbus,OH
+22,Victoria,Hale,victoria.hale@student.edu,2003-07-12,2022-08-22,4,New York,NY
+23,William,Okonkwo,william.okonkwo@student.edu,2004-04-27,2022-08-22,4,Newark,NJ
+24,Ximena,Rojas,ximena.rojas@student.edu,2003-11-19,2022-08-22,4,Los Angeles,CA
+25,Yusuf,Rahman,yusuf.rahman@student.edu,2004-02-06,2023-01-09,4,Minneapolis,MN
+26,Zoe,Callahan,zoe.callahan@student.edu,2003-05-08,2022-08-22,4,Tampa,FL
+27,Adrian,Kovac,adrian.kovac@student.edu,2004-09-29,2023-01-09,4,,
+28,Brooke,Ellison,brooke.ellison@student.edu,2003-08-04,2022-08-22,4,Nashville,TN
+29,Colin,Murphy,colin.murphy@student.edu,2003-10-22,2022-08-22,5,Philadelphia,PA
+30,Delia,Vasquez,delia.vasquez@student.edu,2004-06-13,2022-08-22,5,Sacramento,CA
+31,Elias,Wagner,elias.wagner@student.edu,2003-03-26,2022-08-22,5,St. Louis,MO
+32,Fiona,Gallagher,fiona.gallagher@student.edu,2004-11-09,2023-01-09,5,Boise,ID
+33,Gregory,Lin,gregory.lin@student.edu,2003-09-02,2022-08-22,5,Salt Lake City,UT
+34,Halima,Yusuf,halima.yusuf@student.edu,2004-05-18,2023-01-09,5,Omaha,NE
+35,Ian,Castellanos,ian.castellanos@student.edu,2003-12-30,2022-08-22,6,Tucson,AZ
+36,Jasmine,Boateng,jasmine.boateng@student.edu,2004-07-07,2022-08-22,6,Charlotte,NC
+37,Kyle,Andersen,kyle.andersen@student.edu,2003-04-15,2022-08-22,6,Madison,WI
+38,Lena,Petrosyan,lena.petrosyan@student.edu,2004-08-11,2023-01-09,6,,
+39,Mateo,Rivera,mateo.rivera@student.edu,2003-06-01,2022-08-22,6,El Paso,TX
+40,Nadia,Okoro,nadia.okoro@student.edu,2004-10-04,2023-01-09,6,Richmond,VA
